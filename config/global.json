@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.5.0"
+  },
+  "applications": {
+    "JustNow": {
+      "applicationId": "Mm3YlacEdeZc4Zo4MA7wd1H51ytJHbc0g7hZ3Lee",
+      "masterKey": "6xdn2J2h2J2Wy7zTdBGokLuIudZ1lqHirkPQUDaG"
+    },
+    "_default": {
+      "link": "JustNow"
+    }
+  }
+}
